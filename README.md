@@ -1,9 +1,8 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/f1gQY25/programming-script-text-coding-word.jpg"  />
+  <img height="200" src="https://i.ibb.co.com/9n4kBCX/side-shot-code-editor-using-react-js.jpg"  />
 </div>
 
 ###
-
 <h1 align="left">Hi 👋! My name is Tauhidul Islam</h1>
 
 ###
