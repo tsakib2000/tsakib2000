@@ -1,9 +1,8 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/9n4kBCX/side-shot-code-editor-using-react-js.jpg"  />
+  <img height="400" src="https://i.ibb.co.com/f9Ykthg/Black-Flatlay-Photo-Motivational-Finance-Quote-Facebook-Cover.png"  />
 </div>
 
 ###
-<h1 align="left">Hi 👋! My name is Tauhidul Islam</h1>
 
 ###
 
