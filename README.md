@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">A passionate frontend developer from Bangladesh</p>
+<p align="left">I'm a passionate frontend developer from Bangladesh</p>
 
 ###
 
