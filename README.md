@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: 2024<br>📚 I'm currently learning: Bootstrap, Meterial Ui<br>🎯 Goals:  I want to be a skilled full stack developer</p>
+<p align="left">✨ Creating bugs since: 2024<br>📚 I'm currently learning: Bootstrap, NEXT.js<br>🎯 Goals:  I want to be a skilled full stack developer</p>
 
 ###
 
