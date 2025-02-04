@@ -1,7 +1,4 @@
-<div align="center">
-  <img height="180" src="https://i.ibb.co.com/6B78JpF/github-header-image.png"  />
-</div>
-
+![Header](./your-header-image-name.png)
 ###
 
 ###
