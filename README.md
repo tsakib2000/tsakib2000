@@ -1,4 +1,6 @@
-![Header](./your-header-image-name.png)
+<div align="center">
+ <img src="./your-header-image-name.png" alt="Header Image">
+</div>
 ###
 
 ###
