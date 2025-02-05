@@ -5,7 +5,15 @@
 
 ###
 
-<p align="left">I'm a passionate frontend developer from Bangladesh</p>
+<h1 align="left">Hey 👋 I am Tauhidul Islam , Front-end web developer</h1>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">Hello! My name is Tauhidul Islam, and I’m a passionate Web Developer with a deep love for building dynamic, user-friendly, and efficient web applications. My journey into programming started as a curious teenager fascinated by how websites and applications work. Over time, this curiosity evolved into a full-fledged passion and career goal. I specialize in front-end development and have experience working with technologies like HTML, CSS, JavaScript, React, and Tailwind CSS,Firebase & basic knowledge of backend technologies like expressjs, mongodb. Creating clean, responsive, and visually appealing designs is my forte. I enjoy turning complex ideas into functional, interactive web experiences.</p>
 
 ###
 
